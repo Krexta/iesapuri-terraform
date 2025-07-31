@@ -1,0 +1,6 @@
+tfsec:
+  enabled: false
+trivy:
+  enabled: true
+tflint:
+  enabled: true
